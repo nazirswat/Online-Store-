@@ -29,7 +29,7 @@ export default function Layout() {
               <img
                 src="https://i.imgur.com/i0n0LiQ.png"
                 alt="Lalazar Logo"
-                className="h-16 w-auto max-w-[500px] object-contain"
+                className="h-16 w-auto max-w-[240px] object-contain"
               />
             </Link>
           </motion.div>
